@@ -2,6 +2,3 @@
 Console.WriteLine("Hello, World!");
 
 aaaaaaa
-
-
-    ddddd
