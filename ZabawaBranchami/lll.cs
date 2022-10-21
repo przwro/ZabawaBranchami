@@ -9,5 +9,6 @@ namespace ZabawaBranchami
     public class lll
     {
         kkk
+        lll
     }
 }
